@@ -13,8 +13,9 @@ public class Comentarios extends CarroAbstrato{
 
     @Override
     public void montar() {
-        Ano ("Ano");
-        Modelo("Modelo");
+       Modelo("Modelo");
+       Ano ("Ano");
+     
     }
     
 }

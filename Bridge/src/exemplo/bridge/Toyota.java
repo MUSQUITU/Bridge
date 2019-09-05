@@ -8,7 +8,7 @@ public class Toyota implements Carro {
 
     @Override
     public void Ano(String Nome) {
-        System.out.println(Nome + ": 2016");
+        System.out.println(Nome + ": 2016 \n");
     }
 
     @Override
